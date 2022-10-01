@@ -1,4 +1,4 @@
-# P_DA_02_EDA
+# Research on car sales ads
 The project from the EDA sprint of the Practicum DA/DS course.
 
 ## Description
