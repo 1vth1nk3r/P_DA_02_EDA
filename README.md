@@ -1,5 +1,5 @@
 # Research on car sales ads
-The project from the EDA sprint of the Practicum DA/DS course.
+The project from the Exploratory Data Analysis sprint of the Practicum DA/DS course.
 
 ## Description
 
